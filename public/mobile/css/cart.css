@@ -1,0 +1,19 @@
+#cartList .mui-ellipsis-2{
+  color: #333333;
+  font-size: 14px;
+
+}
+#cartList .price{
+  color: red;
+}
+#cartList .oldPrice{
+  color: #999;
+  text-decoration: line-through;
+}
+#cartList .buyNum{
+  float: right;
+  margin-right: 10px;
+}
+#cartList .mui-icon-compose{
+  background: #006699;
+}
